@@ -15,11 +15,11 @@ Retail Sales Dataset
 - Prepared a Date Cleaning Summary.
 
 ## Date Cleaning Summary
-Total Records - 1002 
-Valid Date Values - 1000 
-Missing Dates - 2 
-Missing Date Rows -1002, 1003 
-Standard Date Format - DD-MM-YYYY 
+Total Records - 1002, 
+Valid Date Values - 1000, 
+Missing Dates - 2 ,
+Missing Date Rows -1002, 1003 ,
+Standard Date Format - DD-MM-YYYY .
 
 ## Tools Used
 - Google Sheets
